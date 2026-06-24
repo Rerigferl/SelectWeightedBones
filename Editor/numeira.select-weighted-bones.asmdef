@@ -1,5 +1,5 @@
 {
-    "name": "numeira.select-weighted-bones.editor",
+    "name": "numeira.select-weighted-bones",
     "references": [ ],
     "includePlatforms": [
         "Editor"

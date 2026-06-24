@@ -1,1 +1,0 @@
-﻿[assembly: InternalsVisibleTo("numeira.select-weighted-bones.editor")]
