@@ -1,5 +1,5 @@
 {
-    "name": "vpm-package.editor",
+    "name": "numeira.select-weighted-bones.editor",
     "references": [ ],
     "includePlatforms": [
         "Editor"
